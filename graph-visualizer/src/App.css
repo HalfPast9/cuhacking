@@ -1,0 +1,7 @@
+.leaflet-container {
+  z-index: 0;
+}
+
+.react-flow__pane {
+  z-index: 1;
+}
